@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-phusit.r56%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phusit.r56@gmail.com)
 ![Location](https://img.shields.io/badge/Based_in-Udon_Thani_%7C_Khon_Kaen-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff)
 ![Now](https://img.shields.io/badge/Now-Software_Engineer_%40_INET_Thailand-00d4ff?style=for-the-badge&logo=briefcase&logoColor=0d1117)
+[![KuanHub](https://img.shields.io/badge/Building-KuanHub.com-0d1117?style=for-the-badge&logo=rocket&logoColor=00d4ff)](https://www.kuanhub.com/)
 
 </div>
 
@@ -110,14 +111,16 @@ I sit where **business meets code**. I gather requirements straight from clients
 <tr>
 <td width="50%" valign="top">
 
-#### 🏸 Badminton Group Web
-`Next.js` `Supabase` `PostgreSQL`
+#### 🏸 [KuanHub](https://www.kuanhub.com/) — Personal SaaS
+`Next.js` `Supabase` `PostgreSQL` `LINE` `PromptPay`
 
-Registration, check-in & **Smart Matchmaking (MMR)** system, designed and built solo after mapping the court's real pain points.
+My own SaaS for running casual badminton groups: check-in, live court queues, **MMR-based auto matchmaking**, scoring and per-player billing. Grew from a tool I built for a real court into a product with subscription plans.
 
-- 🟢 **Live in production** for 7–8 months
-- 📅 **12+ sessions / month** supported
+- 🟢 **Live in production** · 7–8 months of real use, 12+ sessions / month
 - 💰 **THB 249,000+** in tracked player payments
+- 🏆 Rankings, seasons, achievements & QR group invites
+
+[![Visit KuanHub](https://img.shields.io/badge/Visit-kuanhub.com-00d4ff?style=flat-square&logo=googlechrome&logoColor=white)](https://www.kuanhub.com/)
 
 </td>
 <td width="50%" valign="top">

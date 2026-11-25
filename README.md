@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="PHUSIT RUBUN - Software Engineer"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=24&pause=1000&color=FFB200&center=true&vCenter=true&width=650&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### `> whoami`
+### 🕹️ Character Select
 
 ```ts
 const phusit = {
@@ -33,7 +33,7 @@ I sit where **business meets code**. I gather requirements straight from clients
 
 ---
 
-### 🧠 What I Do
+### ⚔️ Skill Tree
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ I sit where **business meets code**. I gather requirements straight from clients
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🎒 Inventory
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I sit where **business meets code**. I gather requirements straight from clients
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Quest Log
 
 <table>
 <tr>
@@ -158,29 +158,21 @@ Requirements, user flows and UI specs for a **government back-office system**, a
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Player Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phusitr56&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phusitr56&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=phusitr56&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=1f6feb&currStreakLabel=00d4ff" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=phusitr56&bg_color=0d1117&color=00d4ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-
-</div>
+<img src="./stats.svg" width="100%" alt="Player stats: skills and achievements"/>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build Something
+### 🤝 Got a quest? Let's team up.
 
-Need someone who can **talk to clients, design the flow, and ship the code**? Let's talk.
+[![Email Me](https://img.shields.io/badge/Get_in_touch-phusit.r56%40gmail.com-FFB200?style=for-the-badge&logo=gmail&logoColor=1a1033)](mailto:phusit.r56@gmail.com)
+[![KuanHub](https://img.shields.io/badge/Play-KuanHub.com-ff4d6d?style=for-the-badge&logo=rocket&logoColor=white)](https://www.kuanhub.com/)
 
-[![Email Me](https://img.shields.io/badge/Get_in_touch-phusit.r56%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:phusit.r56@gmail.com)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<a href="mailto:phusit.r56@gmail.com"><img src="./footer.svg" width="100%" alt="Thanks for playing!"/></a>
 
 </div>

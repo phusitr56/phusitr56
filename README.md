@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=200&section=header&text=PHUSIT%20RUBUN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Business%20Analysis%20%E2%80%A2%20UX%2FUI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./banner.svg" width="100%" alt="PHUSIT RUBUN - Software Engineer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
 
@@ -111,12 +111,12 @@ I sit where **business meets code**. I gather requirements straight from clients
 <tr>
 <td width="50%" valign="top">
 
-#### 🏸 [KuanHub](https://www.kuanhub.com/) — Personal SaaS
+#### 🏸 [KuanHub](https://www.kuanhub.com/) - Personal SaaS
 `Next.js` `Supabase` `PostgreSQL` `LINE` `PromptPay`
 
 My own SaaS for running casual badminton groups: check-in, live court queues, **MMR-based auto matchmaking**, scoring and per-player billing. Grew from a tool I built for a real court into a product with subscription plans.
 
-- 🟢 **Live in production** · 7–8 months of real use, 12+ sessions / month
+- 🟢 **Live in production** · 7-8 months of real use, 12+ sessions / month
 - 💰 **THB 249,000+** in tracked player payments
 - 🏆 Rankings, seasons, achievements & QR group invites
 

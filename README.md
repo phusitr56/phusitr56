@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="PHUSIT RUBUN - Software Engineer"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=24&pause=1000&color=FFB200&center=true&vCenter=true&width=650&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=400&size=20&pause=1000&color=FFB200&center=true&vCenter=true&width=860&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
 
 <br/>
 

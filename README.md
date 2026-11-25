@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-phusit.r56%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phusit.r56@gmail.com)
 ![Location](https://img.shields.io/badge/Based_in-Udon_Thani_%7C_Khon_Kaen-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff)
-![Status](https://img.shields.io/badge/Status-Open_to_BA_Roles-00d4ff?style=for-the-badge&logo=rocket&logoColor=0d1117)
+![Now](https://img.shields.io/badge/Now-Business_Analyst_%40_INET_Thailand-00d4ff?style=for-the-badge&logo=briefcase&logoColor=0d1117)
 
 </div>
 
@@ -19,11 +19,12 @@
 ```ts
 const phusit = {
   role:        ["Business Analyst", "Full-Stack Developer", "UX/UI Designer"],
+  company:     "INET (Internet Thailand) · since Nov 2026",
   experience:  "~1 year · 5+ web & mobile projects",
   domains:     ["Government", "Education", "Welfare", "Sports", "Cultural Heritage"],
   education:   "B.Sc. Computer Science @ Mahasarakham University (2026)",
   superpower:  "Bridging the gap between what clients say and what devs build",
-  currently:   "Seeking a BA role in Software Business Development",
+  currently:   "Business Analyst @ INET Thailand 🚀",
 };
 ```
 

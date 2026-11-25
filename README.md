@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=200&section=header&text=PHUSIT%20RUBUN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Business%20Analyst%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20UX%2FUI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=200&section=header&text=PHUSIT%20RUBUN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Business%20Analysis%20%E2%80%A2%20UX%2FUI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=I+turn+messy+problems+into+clear+systems.;Requirements+%E2%86%92+Workflows+%E2%86%92+Shipped+Products.;Next.js+%7C+Supabase+%7C+PostgreSQL+%7C+TypeScript;Built+systems+that+run+in+real+operations." alt="Typing SVG" /></a>
 
@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-phusit.r56%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phusit.r56@gmail.com)
 ![Location](https://img.shields.io/badge/Based_in-Udon_Thani_%7C_Khon_Kaen-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff)
-![Now](https://img.shields.io/badge/Now-Business_Analyst_%40_INET_Thailand-00d4ff?style=for-the-badge&logo=briefcase&logoColor=0d1117)
+![Now](https://img.shields.io/badge/Now-Software_Engineer_%40_INET_Thailand-00d4ff?style=for-the-badge&logo=briefcase&logoColor=0d1117)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 ```ts
 const phusit = {
-  role:        ["Business Analyst", "Full-Stack Developer", "UX/UI Designer"],
+  role:        ["Software Engineer", "Full-Stack Developer", "Business Analyst", "UX/UI Designer"],
   company:     "INET (Internet Thailand) · since Nov 2026",
   experience:  "~1 year · 5+ web & mobile projects",
   domains:     ["Government", "Education", "Welfare", "Sports", "Cultural Heritage"],
   education:   "B.Sc. Computer Science @ Mahasarakham University (2026)",
   superpower:  "Bridging the gap between what clients say and what devs build",
-  currently:   "Business Analyst @ INET Thailand 🚀",
+  currently:   "Software Engineer @ INET Thailand 🚀",
 };
 ```
 

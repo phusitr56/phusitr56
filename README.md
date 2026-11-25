@@ -162,6 +162,12 @@ Requirements, user flows and UI specs for a **government back-office system**, a
 
 <img src="./stats.svg" width="100%" alt="Player stats: skills and achievements"/>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=phusitr56&background=45,3a1f8f,160f45&border=1a1033&border_radius=24&stroke=7b5cff&ring=FFB200&fire=ff4d6d&currStreakNum=FFD000&sideNums=ffffff&currStreakLabel=FFB200&sideLabels=7ef0ff&dates=c9b8ff&date_format=j%20M%5B%20Y%5D" width="80%" alt="GitHub streak"/>
+
+</div>
+
 ---
 
 <div align="center">
